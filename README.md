@@ -1,8 +1,7 @@
 
 
 <!--heading-->
-## Hello World 👋,
-## Welcome to my Git 
+## Hello World 👋, Welcome to my Git 
 
 ### Professional Data Scientist with experience in sales and marketing. Currently consulting companies to make well-informed and easy decisions by deep diving into advance analytics.
 
